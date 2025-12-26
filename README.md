@@ -35,7 +35,3 @@ It includes notebooks, code, and mini-projects covering fundamental to advanced 
 - Seaborn  
 - Scikit-learn  
 - Jupyter Notebook  
-
-
-## 📁 Repository Structure
-
